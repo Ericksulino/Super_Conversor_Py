@@ -1,0 +1,73 @@
+O algoritmo super_conversor é capaz de fazer as seguintes conversões:
+
+1. celcius em fahrenheit;
+2. fahrenheit em celcius;
+3. kelvin em celcius;
+4. celcius em kelvin;
+5. quilometros em metros por segundo;
+6. metros por segundo em quilometros;
+7. milhas em quilometros:
+8. quilometros em  milhas;
+9. graus em  radianos:
+10. radianos em graus;
+11. polegadas em centimetros;
+12. centimetros em polegadas;
+13. metros cubicos em litros;
+14. litros em metros cubicos;
+15. quilograms em libras;
+16. libras em quilogramas;
+17. jardas em metros;
+18. metros em jardas;
+19. metros quadrados em acres;
+20. acres em metros quadrados;
+21. metros quadrados em hectares;
+22. hectares em metros quadrados;
+
+O algoritmo tem um laço infinito para escolher o que vai ser covertido até que seja digitado "sair"
+é importante que o que seja digitado o nome copleto em minusculo ex: temperatura,area,etc.
+
+Apos digitar o que vai ser convertido devera ser escolhido o tipo de medida a ser convertida
+e tambem sai do laço caso seja digitado "sair".
+é importante que o que seja digitado o tipo por uma sigla em minusculo.
+
+Siglas e seus significados:
+
+Siglas para temperatura:
+fah para fahrenheit;
+cel para celcius;
+kel para kelvin;
+
+Siglas para distância:
+mi para milhas;
+km para kilometros;
+
+Siglas para velocidade:
+ms para metros por segundo;
+km para kilometros por hora;
+
+Siglas para área:
+m2 para metros por quadrados;
+he para hectares;
+ac para acres;
+
+Siglas para ângulos:
+g para graus;
+r para radianos;
+
+Siglas para comprimento:
+cm para centimetros;
+p para polegadas;
+m para metros;
+jar para jardas;
+
+Siglas para volume:
+l para litros;
+m3 para metros cubicos;
+
+Siglas para massa:
+kg para quilogramas;
+lib para libras;
+
+Algoritmo desenvolvido por Ericksulino Moura no dia 19/03/2020
+na quarentena do novo corona vírus, feito com a finalidade de exercitar
+a linguagem python. 
