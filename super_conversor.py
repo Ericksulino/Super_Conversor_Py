@@ -306,5 +306,5 @@ while True:
 '''
     Algoritmo desenvolvido por Ericksulino Moura no dia 19/03/2020
     na quarentena do novo corona vírus, feito com a finalidade de exercitar
-    a linguagem python. 
+    a linguagem python.  
 '''
